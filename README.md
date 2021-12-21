@@ -1,6 +1,6 @@
 # CPE487
 
-Welcome to Digital System Design where I worked with VHDL and FPGA board in order to create different projects within the class and of my own interest!
+Welcome to Digital System Design where I worked with an FPGA board and coded in VHDL in order to create different projects within the class and of my own interest!
 
 # Lab 1: Seven-Segment Decoder
 # Lab 2: Four-Digit Hex Counter

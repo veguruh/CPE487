@@ -1,4 +1,4 @@
-# Hex Calculator with Modifications
+# Lab 4 - Hex Calculator with Modifications
 The two directories, hexcalc and hexcalc_1 contain the design sources and constraint files for lab 4 and the modified lab, respectively. In this lab, a FPGA board was programmed to perform addition and subtraction calculations, as well as suppress leading zeros as part of the modifications.
 
 The primary program, hexcalc uses a finite state machine to determine whether the user is inputting the first operand, the operator, or the second operand. The program constantly updates the state of the board based on the last button to be pressed/released.

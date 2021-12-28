@@ -1,4 +1,4 @@
-# CPE487
+# CPE487 - Digital System Design
 
 Welcome to Digital System Design where I worked with an FPGA board and coded in VHDL in order to create different projects within the class and of my own interest!
 
